@@ -4,8 +4,30 @@
   padding-left: 50px;
 }
 
-.major-icons .icon.fa-node-js::before,
+.major-icons .code-icon.icon::before {
+  font-size: 90px;
+}
+
 .major-icons .icon.fa-aws::before {
   filter: drop-shadow(2px 2px 2px black) sepia(1);
-  font-size: 90px;
+}
+
+ul.major-icons li .icon {
+  border: solid 2px rgba(144, 144, 144, 0.5);
+}
+
+.major-icons .icon.fa-node-js:before {
+  color: darkgreen;
+}
+
+.major-icons .icon.fa-node-js {
+  border-color: darkgreen !important;
+}
+
+.major-icons .icon.fa-angular:before {
+  color: #b50505;
+}
+
+.major-icons .icon.fa-angular {
+  border-color: #b50505 !important;
 }
