@@ -3510,9 +3510,3 @@ input, select, textarea {
 			}
 
 	}
-
-	.code-color {
-		font-size: 50px;
-    filter: hue-rotate(-210deg) saturate(20);
-		padding-left: 50px;
-	}
