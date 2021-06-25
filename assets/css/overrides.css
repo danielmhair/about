@@ -21,7 +21,7 @@ ul.major-icons li .icon {
 }
 
 .major-icons .icon.fa-node-js {
-  border-color: darkgreen !important;
+  border-color: white !important;
 }
 
 .major-icons .icon.fa-angular:before {
@@ -29,5 +29,5 @@ ul.major-icons li .icon {
 }
 
 .major-icons .icon.fa-angular {
-  border-color: #b50505 !important;
+  border-color: white !important;
 }
